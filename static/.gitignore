@@ -1,0 +1,31 @@
+# Compiled object files
+*.o
+
+# Executable(s)
+http_server
+main
+
+# Dependency files
+*.d
+
+# Build directories
+/build/
+/dist/
+
+# IDE / Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Logs and temporary
+*.log
+*.out
+*.err
+*.tmp
+
+# Environment files
+.env
